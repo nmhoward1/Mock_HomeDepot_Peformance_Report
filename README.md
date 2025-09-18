@@ -36,7 +36,7 @@ Below are slide deck images summarizing performance snapshots, trends, and key f
 ![Keyword Performance](Power_Point_Visuals/Keyword_performance_slide.png) 
 *Top 5 keywords generate most conversions; optimization opportunities for low-performing keywords.*
 
-![Demographic Performance] (Power_Point_Visuals/Demographic_performance.png) 
+![Demographic Performance](Power_Point_Visuals/Demographic_performance.png) 
 *Females, ages 25–44, and the top 10% household income groups have the highest conversions.*
 
 ![Demographic Perfromance by CVR % Visuals](Power_Point_Visuals/Demo_visuals.png)
