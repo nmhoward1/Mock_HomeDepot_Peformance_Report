@@ -40,10 +40,10 @@ Below are slide deck images summarizing performance snapshots, trends, and key f
 *Females, ages 25–44, and the top 10% household income groups have the highest conversions.*
 
 ![Demographic Perfromance by CVR % Visuals](Power_Point_Visuals/Demo_visuals.png)
-*Demographic targeting can improve ROI. 
+*Demographic targeting can improve ROI.* 
 
 ![Demographic Recommendations](Power_Point_Visuals/Demo_Takeaways.png)
-*Allocate more budget to females 25–44 and high-income households; use seasonality for timing campaigns.  
+*Allocate more budget to females 25–44 and high-income households; use seasonality for timing campaigns.*  
 
 ## Buisness Recommendations & Next Steps
 
