@@ -30,17 +30,20 @@ Increase orders across these categories (March 24, 2025 – April 23, 2025).
 ### Ad Group Performance & Trends
 Below are slide deck images summarizing performance snapshots, trends, and key findings. 
 
-![Slide 1 – Ad Group Performance](readme_images/slide1_adgroup.png)  
+![Ad Group Performance](Power_Point_Visuals/Ad_group_perfromance.png) 
 *Brand ad group is top performing, General is underperforming, highlighting budget allocation opportunities.*
 
-![Slide 3 – Keyword Performance](readme_images/slide3_keywords.png)  
+![Keyword Performance](Power_Point_Visuals/Keyword_performance_slide.png) 
 *Top 5 keywords generate most conversions; optimization opportunities for low-performing keywords.*
 
-![Slide 4 – Search Creative Performance](readme_images/slide4_creative.png)  
-*Insights on SERP rankings and conversion rates per search keyword.*
-
-![Slide 5 – Demographics Performance](readme_images/slide5_demographics.png)  
+![Demographic Performance] (Power_Point_Visuals/Demographic_performance.png) 
 *Females, ages 25–44, and the top 10% household income groups have the highest conversions.*
+
+![Demographic Perfromance by CVR % Visuals](Power_Point_Visuals/Demo_visuals.png)
+*Demographic targeting can improve ROI. 
+
+![Demographic Recommendations](Power_Point_Visuals/Demo_Takeaways.png)
+*Allocate more budget to females 25–44 and high-income households; use seasonality for timing campaigns.  
 
 ## Buisness Recommendations & Next Steps
 
