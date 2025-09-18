@@ -1,10 +1,9 @@
-# Home Depot Paid Search Performance Report 
+# Mock Home Depot Paid Search Performance Report 
 Kepler Summer 2025 
 Intern Portfolio Project
-
-**Author:** KeplerU  
+  
 **Project Focus:** Paid Search Performance & Demographics Analysis 
-** My Focus Contribution:
+**My Focus Contribution:**
 Demographics Analysis (Audience Segmentation)
 
 ---
@@ -22,7 +21,6 @@ Increase orders across these categories (March 24, 2025 – April 23, 2025).
 
 **Tools & Techniques** 
 - Excel: SUMIFS, COUNTIFS, IFERROR, VLOOKUP, XLOOKUP, Pivot Tables  
-- Metrics Calculated: CTR, CPC, CVR, CPA, ROAS  
 - Analysis Approach: Compare ad groups, top keywords, and demographics to identify high-performing segments and optimize budget allocation.
 
 ---
@@ -30,13 +28,10 @@ Increase orders across these categories (March 24, 2025 – April 23, 2025).
 ## Insights & Key Takeaways
 
 ### Ad Group Performance & Trends
-Below are images summarizing performance snapshots, trends, and key findings. 
+Below are slide deck images summarizing performance snapshots, trends, and key findings. 
 
 ![Slide 1 – Ad Group Performance](readme_images/slide1_adgroup.png)  
 *Brand ad group is top performing, General is underperforming, highlighting budget allocation opportunities.*
-
-![Slide 2 – Trend Analysis](readme_images/slide2_trends.png)  
-*Total spend vs conversions across ad groups shows ROI opportunities.*
 
 ![Slide 3 – Keyword Performance](readme_images/slide3_keywords.png)  
 *Top 5 keywords generate most conversions; optimization opportunities for low-performing keywords.*
@@ -47,7 +42,7 @@ Below are images summarizing performance snapshots, trends, and key findings.
 ![Slide 5 – Demographics Performance](readme_images/slide5_demographics.png)  
 *Females, ages 25–44, and the top 10% household income groups have the highest conversions.*
 
-## Recommendations & Next Steps
+## Buisness Recommendations & Next Steps
 
 ### Ad Groups
 - Allocate more budget to **Brand, Kitchen & Kitchenware, and Lawn & Garden**.  
