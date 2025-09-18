@@ -1,17 +1,15 @@
-# Home Depot Paid Search Performance Report – Cohort 9, May 2025
+# Home Depot Paid Search Performance Report 
+Kepler Summer 2025 
+Intern Portfolio Project
 
 **Author:** KeplerU  
 **Project Focus:** Paid Search Performance & Demographics Analysis 
-**Focus Contribution:** Demographics Analysis (Audience Segmentation)
-
-## Tools & Techniques
-- **Excel:** SUMIFS, COUNTIFS, IFERROR, VLOOKUP, XLOOKUP, Pivot Tables  
-- **Metrics Calculated:** CTR, CPC, CVR, CPA, ROAS  
-- **Analysis Approach:** Compare ad groups, top keywords, and demographics to identify high-performing segments and optimize budget allocation.
+** My Focus Contribution:
+Demographics Analysis (Audience Segmentation)
 
 ---
 
-**Client Overview:**  
+## Client Overview:  
 Home Depot is a leading home improvement retailer with key categories: DIY, Appliances, Brand, Kitchen & Kitchenware, and Lawn & Garden.  
 
 **Campaign Objective:**  
@@ -20,26 +18,19 @@ Increase orders across these categories (March 24, 2025 – April 23, 2025).
 **Key Performance Indicators (KPIs):**  
 - Impressions (Top-of-Funnel)  
 - Clicks & CTR (Mid-Funnel Engagement)  
-- Conversions, Conversion Rate, CPA, ROAS (Bottom-of-Funnel)  
+- Conversions, Conversion Rate, CPA, CPC, ROAS (Bottom-of-Funnel) 
 
-**Scenario-Ready Framing:**  
-*“If asked which ad group drives the most efficient conversions, the analysis shows Brand is highest performing with lowest CPA and strong CTR.”*
-
+**Tools & Techniques** 
+- Excel: SUMIFS, COUNTIFS, IFERROR, VLOOKUP, XLOOKUP, Pivot Tables  
+- Metrics Calculated: CTR, CPC, CVR, CPA, ROAS  
+- Analysis Approach: Compare ad groups, top keywords, and demographics to identify high-performing segments and optimize budget allocation.
 
 ---
-
-## 2. Campaign Objectives & KPIs
-- **Client Goals:** Increase orders across all ad groups.  
-- **Key Performance Indicators (KPIs):**
-  - Conversions  
-  - Conversion Rate (CVR)  
-  - Cost per Conversion (CPA)  
-  - Conversion Value / Cost (ROAS) .
  
-# 3. Insights & Key Takeaways
+## Insights & Key Takeaways
 
 ### Ad Group Performance & Trends
-Below are **images summarizing performance snapshots, trends, and key findings**. Each slide visually conveys ad group, keyword, and demographic insights.
+Below are images summarizing performance snapshots, trends, and key findings. 
 
 ![Slide 1 – Ad Group Performance](readme_images/slide1_adgroup.png)  
 *Brand ad group is top performing, General is underperforming, highlighting budget allocation opportunities.*
@@ -56,20 +47,20 @@ Below are **images summarizing performance snapshots, trends, and key findings**
 ![Slide 5 – Demographics Performance](readme_images/slide5_demographics.png)  
 *Females, ages 25–44, and the top 10% household income groups have the highest conversions.*
 
+## Recommendations & Next Steps
 
-## 3. Recommendations & Next Steps
+### Ad Groups
+- Allocate more budget to **Brand, Kitchen & Kitchenware, and Lawn & Garden**.  
+- Consider removing **General** due to low efficiency.
 
-1. **Ad Groups:**  
-   - Increase spend on Brand, Kitchen & Kitchenware, Lawn & Garden.  
-   - Pause or reduce the General ad group allocation.  
+### Keywords
+- Pause low-performing keywords (0 clicks or ROAS <1).  
+- Increase bids for high-performing keywords, particularly *Garden Center* and *Home Improvement*.  
+- Optimize *Home Services* by improving ad copy and targeting.
 
-2. **Keywords:**  
-   - Pause low-performing keywords (0 clicks or ROAS <1).  
-   - Increase bids on top-performing keywords (Home Depot Savings, Garden Center, Home Improvement).  
+### Demographics
+- Continue targeting **females, ages 25–44, top 10% household income**.  
+- Align campaigns with seasonal trends to maximize conversions.
 
-3. **Demographics:**  
-   - Continue targeting females 25–44, top 10% household income.  
-   - Adjust creatives to resonate with this segment during peak season.  
-
-4. **Search Ad Creative:**  
-   - A/B test headlines and ad copy to optimize CTR and CVR.  
+### Search Ad Creative
+- A/B test new ad headlines and descriptions to improve CTR and conversions.
